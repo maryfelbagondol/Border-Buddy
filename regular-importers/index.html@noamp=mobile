@@ -1,0 +1,1567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head >
+<meta charset="UTF-8" />
+<script type="text/javascript">
+/* <![CDATA[ */
+ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}}); 
+/* ]]> */
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+            <meta property="og:type" content="article"/>
+            <meta property="og:site_name" content="BorderBuddy"/>
+            <meta property="og:title" content="Regular Importers"/>
+            <meta property="og:url" content="https://borderbuddy.com/regular-importers/"/>
+            <meta property="og:description" content="Importing products over the border can be a hassle, especially when you do it more than once. If you are a repeat importer or exporter we want to make it easy for you to ship across the border.     Get on our regular importer list and we can help you keep your imports or exports"/>
+        
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel='preload' as='script' href='https://borderbuddy.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1' data-wpacu-preload-js='1'>
+<link rel='preload' as='script' href='https://borderbuddy.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2' data-wpacu-preload-js='1'>
+<link rel='preload' as='script' href='https://borderbuddy.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10' data-wpacu-preload-js='1'>
+<link rel='preload' as='script' href='https://borderbuddy.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=3.5.0' data-wpacu-preload-js='1'>
+<link rel='preload' as='script' href='https://borderbuddy.com/wp-content/themes/borderbuddy/js/responsive-menus.min.js?ver=2.6.0' data-wpacu-preload-js='1'>
+<link rel='preload' as='script' href='https://borderbuddy.com/wp-content/themes/borderbuddy/js/genesis-sample.js?ver=2.6.0' data-wpacu-preload-js='1'>
+<link rel='preload' as='script' href='https://borderbuddy.com/wp-content/themes/borderbuddy/js/slick.js?ver=6.4.3' data-wpacu-preload-js='1'>
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v22.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Join our List of Registered Importers | BorderBuddy</title>
+	<meta name="description" content="If you are a repeat importer/exporter sign up for our regular importer list and let us take care of your repeat cross border shipments." />
+	<link rel="canonical" href="https://borderbuddy.com/regular-importers/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Join our List of Registered Importers | BorderBuddy" />
+	<meta property="og:description" content="If you are a repeat importer/exporter sign up for our regular importer list and let us take care of your repeat cross border shipments." />
+	<meta property="og:url" content="https://borderbuddy.com/regular-importers/" />
+	<meta property="og:site_name" content="BorderBuddy" />
+	<meta property="article:publisher" content="http://www.facebook.com/borderbuddy" />
+	<meta property="article:modified_time" content="2022-10-19T14:57:24+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@borderbuddy" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://borderbuddy.com/regular-importers/","url":"https://borderbuddy.com/regular-importers/","name":"Join our List of Registered Importers | BorderBuddy","isPartOf":{"@id":"https://borderbuddy.com/#website"},"datePublished":"2018-10-26T21:38:53+00:00","dateModified":"2022-10-19T14:57:24+00:00","description":"If you are a repeat importer/exporter sign up for our regular importer list and let us take care of your repeat cross border shipments.","breadcrumb":{"@id":"https://borderbuddy.com/regular-importers/#breadcrumb"},"inLanguage":"en-CA","potentialAction":[{"@type":"ReadAction","target":["https://borderbuddy.com/regular-importers/"]}]},{"@type":"BreadcrumbList","@id":"https://borderbuddy.com/regular-importers/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://borderbuddy.com/"},{"@type":"ListItem","position":2,"name":"Regular Importers"}]},{"@type":"WebSite","@id":"https://borderbuddy.com/#website","url":"https://borderbuddy.com/","name":"BorderBuddy","description":"Orders Without Borders","publisher":{"@id":"https://borderbuddy.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://borderbuddy.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-CA"},{"@type":"Organization","@id":"https://borderbuddy.com/#organization","name":"BorderBuddy","url":"https://borderbuddy.com/","logo":{"@type":"ImageObject","inLanguage":"en-CA","@id":"https://borderbuddy.com/#/schema/logo/image/","url":"https://borderbuddy.com/wp-content/uploads/2018/11/BorderBuddyLogo.png","contentUrl":"https://borderbuddy.com/wp-content/uploads/2018/11/BorderBuddyLogo.png","width":1024,"height":427,"caption":"BorderBuddy"},"image":{"@id":"https://borderbuddy.com/#/schema/logo/image/"},"sameAs":["http://www.facebook.com/borderbuddy","https://twitter.com/borderbuddy","https://www.linkedin.com/company/18237616/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="BorderBuddy &raquo; Feed" href="https://borderbuddy.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BorderBuddy &raquo; Comments Feed" href="https://borderbuddy.com/comments/feed/" />
+<link rel='stylesheet' id='genesis-sample-css' href='https://borderbuddy.com/wp-content/themes/borderbuddy/style.css?ver=2.6.0' type='text/css' media='all' />
+<style id='genesis-sample-inline-css' type='text/css'>
+
+		.wp-custom-logo .site-container .title-area {
+			max-width: 300px;
+		}
+		
+		.wp-custom-logo .title-area {
+			padding-top: 34.5px;
+		}
+		
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://borderbuddy.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='brb-public-main-css-css' href='https://borderbuddy.com/wp-content/plugins/business-reviews-bundle/assets/css/public-main.css?ver=1.9.27' type='text/css' media='all' />
+<style  type='text/css'  data-wpacu-inline-css-file='1'>
+/*!/wp-content/themes/borderbuddy/fonts/proxima/stylesheet.css*//*! Generated by Font Squirrel (https://www.fontsquirrel.com) on January 14, 2019 */
+
+
+
+@font-face{font-family:'proxima_novablack';src:url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-black_0-webfont.woff2') format('woff2'),
+url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-black_0-webfont.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+
+
+
+
+@font-face{font-family:'proxima_novabold';src:url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-bold_0-webfont.woff2') format('woff2'),
+url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-bold_0-webfont.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+
+
+
+
+@font-face{font-family:'proxima_nova_rgbold_italic';src:url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-boldit_0-webfont.woff2') format('woff2'),
+url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-boldit_0-webfont.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+
+
+
+
+@font-face{font-family:'proxima_novaextrabold';src:url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-extrabold_0-webfont.woff2') format('woff2'),
+url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-extrabold_0-webfont.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+
+
+
+
+@font-face{font-family:'proxima_novalight';src:url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-light_0-webfont.woff2') format('woff2'),
+url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-light_0-webfont.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+
+
+
+
+@font-face{font-family:'proxima_novalight_italic';src:url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-lightitalic_0-webfont.woff2') format('woff2'),
+url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-lightitalic_0-webfont.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+
+
+
+
+@font-face{font-family:'proxima_nova_rgregular';src:url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-regular_0-webfont.woff2') format('woff2'),
+url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-regular_0-webfont.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+
+
+
+
+@font-face{font-family:'proxima_novaregular_italic';src:url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-regularitalic_0-webfont.woff2') format('woff2'),
+url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-regularitalic_0-webfont.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+
+
+
+
+@font-face{font-family:'proxima_novasemibold';src:url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-semibold_0-webfont.woff2') format('woff2'),
+url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-semibold_0-webfont.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+
+
+
+
+@font-face{font-family:'proxima_novasemibold_italic';src:url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-semibolditalic_0-webfont.woff2') format('woff2'),
+url('/wp-content/themes/borderbuddy/fonts/proxima/proximanova-semibolditalic_0-webfont.woff') format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+</style>
+<link rel='stylesheet' id='font-awesome-css' href='https://borderbuddy.com/wp-content/cache/asset-cleanup/css/item/borderbuddy__css__font-awesome-css-v1fe0a2d862f604995d15293c3cb8294077c6c8db.css' type='text/css' media='all' />
+<style  type='text/css'  data-wpacu-inline-css-file='1'>
+/* Slider */
+.slick-slider
+{
+    position: relative;
+
+    display: block;
+
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+
+    display: block;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+
+    display: block;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+.slick-slide img
+{
+    display: block;
+}
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+
+    height: auto;
+
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
+</style>
+<style  type='text/css'  data-wpacu-inline-css-file='1'>
+/*!/wp-content/themes/borderbuddy/css/slick-theme.css*/@charset 'UTF-8';
+/* Slider */
+.slick-loading .slick-list
+{
+    background: #fff url('/wp-content/themes/borderbuddy/css/./ajax-loader.gif') center center no-repeat;
+}
+
+/* Icons */
+@font-face{font-family:'slick';font-weight:normal;font-style:normal;src:url('/wp-content/themes/borderbuddy/css/./fonts/slick.eot');src:url('/wp-content/themes/borderbuddy/css/./fonts/slick.eot?#iefix') format('embedded-opentype'), url('/wp-content/themes/borderbuddy/css/./fonts/slick.woff') format('woff'), url('/wp-content/themes/borderbuddy/css/./fonts/slick.ttf') format('truetype'), url('/wp-content/themes/borderbuddy/css/./fonts/slick.svg#slick') format('svg');font-display:swap;}
+/* Arrows */
+.slick-prev,
+.slick-next
+{
+    font-size: 0;
+    line-height: 0;
+
+    position: absolute;
+    top: 50%;
+
+    display: block;
+
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    margin-top: -10px\9; /*lte IE 8*/
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+
+    cursor: pointer;
+
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+}
+.slick-prev:hover,
+.slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus
+{
+    color: transparent;
+    outline: none;
+    background: transparent;
+}
+.slick-prev:hover:before,
+.slick-prev:focus:before,
+.slick-next:hover:before,
+.slick-next:focus:before
+{
+    opacity: 1;
+}
+.slick-prev.slick-disabled:before,
+.slick-next.slick-disabled:before
+{
+    opacity: .25;
+}
+
+.slick-prev:before,
+.slick-next:before
+{
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+
+    opacity: .75;
+    color: white;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-prev
+{
+    left: -25px;
+}
+[dir='rtl'] .slick-prev
+{
+    right: -25px;
+    left: auto;
+}
+.slick-prev:before
+{
+    content: '←';
+}
+[dir='rtl'] .slick-prev:before
+{
+    content: '→';
+}
+
+.slick-next
+{
+    right: -25px;
+}
+[dir='rtl'] .slick-next
+{
+    right: auto;
+    left: -25px;
+}
+.slick-next:before
+{
+    content: '→';
+}
+[dir='rtl'] .slick-next:before
+{
+    content: '←';
+}
+
+/* Dots */
+.slick-slider
+{
+    margin-bottom: 30px;
+}
+
+.slick-dots
+{
+    position: absolute;
+    bottom: -45px;
+
+    display: block;
+
+    width: 100%;
+    padding: 0;
+
+    list-style: none;
+
+    text-align: center;
+}
+.slick-dots li
+{
+    position: relative;
+
+    display: inline-block;
+
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+
+    cursor: pointer;
+}
+.slick-dots li button
+{
+    font-size: 0;
+    line-height: 0;
+
+    display: block;
+
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+
+    cursor: pointer;
+
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+.slick-dots li button:hover,
+.slick-dots li button:focus
+{
+    outline: none;
+}
+.slick-dots li button:hover:before,
+.slick-dots li button:focus:before
+{
+    opacity: 1;
+}
+.slick-dots li button:before
+{
+    font-family: 'slick';
+    font-size: 6px;
+    line-height: 20px;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 20px;
+    height: 20px;
+
+    content: '•';
+    text-align: center;
+
+    opacity: .25;
+    color: black;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.slick-dots li.slick-active button:before
+{
+    opacity: .75;
+    color: black;
+}
+</style>
+<link rel='stylesheet' id='custom-css' href='https://borderbuddy.com/wp-content/themes/borderbuddy/custom.css?ver=3.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_basic-css' href='https://borderbuddy.com/wp-content/cache/asset-cleanup/css/item/gravityforms__assets__css__dist__basic-min-css-v45aae6fc1f49387aef98299f1603700618e6ee08.css' type='text/css' media='all' />
+
+<style  type='text/css'  data-wpacu-inline-css-file='1'>
+.gf_browser_ie.gform_wrapper.gravity-theme form{overflow:hidden;padding:1px 1px 8px 1px}.gf_browser_ie.gform_wrapper.gravity-theme .gform-body{margin:0 -32px -32px 0}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields{display:flex;flex-wrap:wrap;overflow:hidden}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield{background-clip:padding-box;border:0 solid transparent;border-width:0 32px 32px 0;width:100%}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield.gfield--width-full{width:100%}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield.gfield--width-eleven-twelfths{width:91.666%}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield.gfield--width-five-sixths{width:83.333%}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield.gfield--width-three-quarter{width:75%}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield.gfield.gfield--width-two-thirds{width:66.666%}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield.gfield--width-seven-twelfths{width:58.333%}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield.gfield--width-half{width:50%}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield.gfield--width-five-twelfths{width:41.666%}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield.gfield--width-third{width:33.333%}.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield.gfield--width-quarter{width:25%}@media (max-width:840px){.gf_browser_ie.gform_wrapper.gravity-theme .gform_fields .gfield{width:100%}}.gf_browser_ie.gform_wrapper.gravity-theme .ginput_container_address .ginput_left,.gf_browser_ie.gform_wrapper.gravity-theme .ginput_container_address .ginput_right{flex:0 50%;flex-basis:auto;width:50%}
+</style>
+<link rel='stylesheet' id='gform_theme-css' href='https://borderbuddy.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.8.7' type='text/css' media='all' />
+<script type="text/javascript" id="brb-public-main-js-js-extra">
+/* <![CDATA[ */
+var brb_vars = {"ajaxurl":"https:\/\/borderbuddy.com\/wp-admin\/admin-ajax.php","gavatar":"https:\/\/borderbuddy.com\/wp-content\/plugins\/business-reviews-bundle\/assets\/img\/google_avatar.png"};
+/* ]]> */
+</script>
+<script   type="text/javascript" defer="defer" src="https://borderbuddy.com/wp-content/plugins/business-reviews-bundle/assets/js/public-main.js?ver=1.9.27" id="brb-public-main-js-js"></script>
+<script   data-wpacu-to-be-preloaded-basic='1' type="text/javascript" src="https://borderbuddy.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script   type="text/javascript" defer='defer' src="https://borderbuddy.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.7" id="gform_json-js"></script>
+<script type="text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/borderbuddy.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/borderbuddy.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"086dcd43a91a2186643b9f40607ad84f","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = {"11":""};
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/borderbuddy.com\/wp-content\/plugins\/gravityforms\/images"}};
+/* ]]> */
+</script>
+<script   type="text/javascript" id="gform_gravityforms-js-before">
+/* <![CDATA[ */
+
+/* ]]> */
+</script>
+<script   type="text/javascript" defer='defer' src="https://borderbuddy.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.8.7" id="gform_gravityforms-js"></script>
+<script   type="text/javascript" defer='defer' src="https://borderbuddy.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=50c7bea9c2320e16728e44ae9fde5f26" id="gform_gravityforms_utils-js"></script>
+<link rel="https://api.w.org/" href="https://borderbuddy.com/wp-json/" /><link rel="alternate" type="application/json" href="https://borderbuddy.com/wp-json/wp/v2/pages/855" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://borderbuddy.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.3" />
+<link rel='shortlink' href='https://borderbuddy.com/?p=855' />
+<script>readMoreArgs = []</script><script type="text/javascript">
+				EXPM_VERSION=3.382;EXPM_AJAX_URL='https://borderbuddy.com/wp-admin/admin-ajax.php';
+			function yrmAddEvent(element, eventName, fn) {
+				if (element.addEventListener)
+					element.addEventListener(eventName, fn, false);
+				else if (element.attachEvent)
+					element.attachEvent('on' + eventName, fn);
+			}
+			</script>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to off -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"BorderBuddy"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script>
+	console.warn && console.warn("[GTM4WP] Google Tag Manager container code placement set to OFF !!!");
+	console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><meta name="facebook-domain-verification" content="6sw9uv904kre8zg90yj5p6ctgoxnzd" />
+<style>@media(max-width:390px){img.custom-logo{max-height:27.61px;width:160px} .site-container {
+    animation: fadein 0.3s!important;
+}.banner-section div.context h3{height:60px; width:100%;text-align:center!important; padding:0px!important;display: block;}}</style>
+<link rel="preload" href="/wp-content/themes/borderbuddy/fonts/proxima/proximanova-regular_0-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/wp-content/themes/borderbuddy/css/fonts/slick.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/wp-content/themes/borderbuddy/fonts/proxima/proximanova-semibold_0-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/wp-content/themes/borderbuddy/fonts/proxima/proximanova-bold_0-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/wp-content/themes/borderbuddy/fonts/proxima/proximanova-black_0-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/wp-content/themes/borderbuddy/fonts/fontawesome-webfont.woff2?v=4.6.3" as="font" type="font/woff2" crossorigin>
+
+<noscript id="defc">
+<style>
+@media only screen and (max-width: 479px){
+.site-header{max-height:unset}
+.site-header.scrolling {
+    padding: 20px 0 15px;
+    top: 0;
+}
+</noscript>
+
+<style>
+@media only screen and (max-width: 480px){
+#mobile-menu-section .toggle-wrap {top: 0px!important; right:0px!important}
+#mobile-menu-section{position:relative}
+.site-header{max-height:62.61px}
+.site-header.scrolling{max-height:unset; right:0!important}
+}
+</style>
+
+<script>
+    (function() {
+    var now = new Date();
+    now = now.toLocaleString("en-US", { timeZone: "America/Vancouver" });
+    var date = new Date(now);
+    var enableBot = false;
+    switch (date.getDay()) {
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+            if (date.getHours() < 16 && date.getHours() >= 8 || (date.getHours() == 16 && date.getMinutes() < 30 )) enableBot = true;
+            break;
+        default:
+            break;
+    }
+    if (enableBot) {
+        var s = document.createElement("script");
+        document.head.appendChild(s);
+        s.src = "https://s3.amazonaws.com/uploads.massively.ai/custom/borderbuddy.min.js";
+    }
+    })();
+</script>
+
+<script>
+themeArr=[];
+      function speedLoader() {
+  
+  function trackingFunction1 () {
+      /*-- GTM --*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-PDTHPB6'); 
+  
+  
+  }
+  
+  function trackingFunction2 () {
+      window.FrontChat('init', {chatId: '73bac32e36bde75e1471aa4b19d6e18b', useDefaultLauncher: true});
+  }
+  
+        var urls = [
+        "https://chat-assets.frontapp.com/v1/chat.bundle.js", 
+"//cdn.callrail.com/companies/605919718/ea95149efbe694b30607/12/swap.js"
+          ];
+          var preF = ["https://app.borderbuddy.com/app.ec621ce33a2a79bdbee5.js",
+"https://app.borderbuddy.com/vendor.777949615bc12688329a.js",
+"https://app.borderbuddy.com/polyfills.caf6ab072c4425ddcf69.js",
+"https://cdn.jsdelivr.net/npm/redoc/bundles/redoc.standalone.js"];
+  if(screen.width>400){afLt = 2000} else
+{afLt = 3000}
+      function LU (a) {for (var i = 0; i <a.length; i++) {var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.src = a[i];var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);}}
+        function FN(a){a.forEach(Function.prototype.call, Function.prototype.call);};
+		function PL (){ifr=document.createElement("iframe"),ifr.setAttribute("sandbox","allow-same-origin"),ifr.setAttribute("style","display:none"),document.body.appendChild(ifr),ifr.setAttribute("src","https://app.borderbuddy.com/calculator2/public;importtype=vehicle"); ifr=document.createElement("iframe"),ifr.setAttribute("sandbox","allow-same-origin"),ifr.setAttribute("style","display:none"),document.body.appendChild(ifr),ifr.setAttribute("src","https://app.borderbuddy.com/calculator2/public;importtype=product");} 
+
+ function DC(a){e=document.getElementById(a),t=document.createElement("div");t.innerHTML=e.textContent,document.body.appendChild(t),e.parentElement.removeChild(e),raf=requestAnimationFrame||mozRequestAnimationFrame||webkitRequestAnimationFrame||msRequestAnimationFrame;};
+      setTimeout(function(){ DC('defc'); trackingFunction1();
+          setTimeout(function(){  LU(urls);
+              setTimeout(function(){  trackingFunction2(); FN(themeArr);
+                 setTimeout(function(){ PL();
+                      }, 2000);
+                  }, 500);
+              }, 500);
+          }, afLt);
+    };
+      window.addEventListener('load', speedLoader, false);
+  </script>
+<!-- Dynamic Widgets by QURL loaded - http://www.dynamic-widgets.com //-->
+<link rel="amphtml" href="https://borderbuddy.com/regular-importers/?amp"><link rel="icon" href="https://borderbuddy.com/wp-content/uploads/2017/09/cropped-BorderBuddy_FavIcon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://borderbuddy.com/wp-content/uploads/2017/09/cropped-BorderBuddy_FavIcon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://borderbuddy.com/wp-content/uploads/2017/09/cropped-BorderBuddy_FavIcon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://borderbuddy.com/wp-content/uploads/2017/09/cropped-BorderBuddy_FavIcon-300x300.png" />
+		<style type="text/css" id="wp-custom-css">
+			.post-password-required .u-section-1 .u-icon-1 {
+	display:none !important;
+}
+.inner .haslist ol li {
+	list-style-type:unset;
+	margin: 5px 0px 10px 40px;
+	list-style-type: unset;
+}
+
+.notitle h1 {
+	display:none;
+}
+
+.custom-logo {width:auto;}
+
+.pum-theme-1345 .pum-container, .pum-theme-lightbox .pum-container {background: #064473 !important} 
+
+@media all{
+    h1{font-size:2em;margin:.67em 0;}
+    a{background-color:transparent;}
+    *,*::before,*::after{box-sizing:inherit;}
+    a{color:#0073e5;text-decoration:underline;transition:color 0.2s ease-in-out,background-color 0.2s ease-in-out;}
+    a:focus,a:hover{color:#333;text-decoration:none;}
+    p{margin:0 0 30px;padding:0;}
+    ul{margin:0;padding:0;}
+    li{list-style-type:none;}
+    h1,h3{font-family:'Source Sans Pro',sans-serif;font-weight:400;line-height:1.2;margin:0 0 20px;}
+    h1{font-size:30px;font-size:3rem;}
+    h3{font-size:24px;font-size:2.4rem;}
+    ::-moz-placeholder{color:#333;opacity:1;}
+    ::-webkit-input-placeholder{color:#333;}
+    :focus{color:#333;outline:#ccc solid 1px;}
+    @media print{
+    *,*::before,*::after{background:transparent!important;box-shadow:none!important;color:#333!important;text-shadow:none!important;}
+    a,a:visited{text-decoration:underline;}
+    a[href]::after{content:" (" attr(href) ")";}
+    p,h3{orphans:3;widows:3;}
+    h1,h3{orphans:3;page-break-after:avoid;page-break-inside:avoid;widows:3;}
+    ul{page-break-before:avoid;}
+    }
+    *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+    *:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+    h1,h3,p,div{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-smooth:always;}
+    h1,h3{margin:0;font-family:'proxima_novabold';font-weight:400;color:#2E3F62;line-height:1;}
+    a{font-family:'proxima_nova_rgregular';font-weight:400;background-color:transparent;text-decoration:none;color:#E47D39;}
+    a:active,a:hover{outline:0;}
+    p{color:#000;font-family:'proxima_nova_rgregular';font-weight:400;font-size:18px;line-height:1.55;margin-bottom:25px;}
+    ul{padding:0;margin:0;font-size:18px;font-family:'proxima_nova_rgregular';font-weight:400;line-height:1.55;color:#000;}
+    ul li{font-size:18px;font-family:'proxima_nova_rgregular';font-weight:400;color:#000;line-height:1.55;}
+    .inner::before,.inner::after{display:table;content:" ";}
+    .inner::after{clear:both;}
+    *:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+    .text-center{text-align:center;}
+    .inner{margin-left:auto;margin-right:auto;position:relative;max-width:1170px;padding-left:10px;padding-right:10px;}
+    .primary-btn{background-color:#F28E5C;font-size:18px;font-family:'proxima_novabold';text-transform:uppercase;display:inline-block;color:#FFF;text-align:center;outline:none;max-width:326px;width:100%;padding:22px 30px;border:solid 1px #F28E5C;letter-spacing:1px;}
+    .primary-btn:active,.primary-btn:focus,.primary-btn:visited{color:#FFF;}
+    .primary-btn:hover{background-color:#fff;color:#F28E5C;}
+    .banner-section{background:url(https://borderbuddy.com/wp-content/themes/borderbuddy/images/BORDER-BUDDY-BANNER-BG-min.jpg);background-position:top center;background-repeat:no-repeat;width:100%;min-height:724px;position:relative;padding-top:110px;}
+    .banner-section .context{max-width:940px;width:100%;margin:0 auto 50px;}
+    .banner-section .context h1{font-family:'proxima_novablack';font-weight:400;color:#fff;font-size:125px;margin-bottom:20px;line-height:1;}
+    .banner-section .context h3{font-family:'proxima_nova_rgregular';font-weight:400;color:#fff;font-size:40px;margin-bottom:15px;line-height:1;letter-spacing:1px;}
+    .banner-section .context a.primary-btn{max-width:374px;width:100%;font-size:20px;}
+    .banner-section .counter{width:100%;margin:0 auto;}
+    .banner-section .counter ul{width:100%;text-align:center;}
+    .banner-section .counter ul li{display:inline-block;padding-left:30px;padding-right:30px;}
+    .banner-section .counter ul li:nth-child(2){max-width:300px;width:100%;text-align:left;margin-left:5px;}
+    .banner-section .counter ul li:nth-child(3){max-width:350px;width:100%;text-align:left;margin-left:5px;}
+    .banner-section .counter ul li h3{color:#fff;font-size:70px;line-height:1;position:relative;}
+    .banner-section .counter ul li p{color:#fff;font-size:18px;font-family:'proxima_novabold';font-weight:400;margin-bottom:0;text-transform:uppercase;text-align:center;}
+    .banner-section .counter .block{position:relative;}
+    .banner-section .counter .block:before{content:'';position:absolute;background:#fff;width:2px;height:75px;right:-30px;top:10px;}
+    .banner-section .counter li:last-child .block::before{display:none;}
+    @media only screen and (max-width :1200px){
+    .banner-section .context h1{font-size:100px;margin-bottom:30px;}
+    .banner-section .counter ul li:nth-child(2){max-width:260px;}
+    .banner-section .counter ul li:nth-child(3){max-width:300px;}
+    .banner-section .counter ul li h3{font-size:60px;}
+    }
+    @media only screen and (max-width :1100px){
+    .banner-section .counter ul li{width:48%;margin-bottom:30px;}
+    .banner-section .counter ul li:nth-child(2){max-width:100%;width:48%;text-align:center;margin-left:0;}
+    .banner-section .counter ul li:nth-child(3){max-width:100%;width:48%;text-align:center;margin-left:0;}
+    .banner-section .counter .block:before{width:100%;height:2px;right:unset;top:unset;bottom:-15px;left:50%;margin-left:-50%;}
+    .banner-section .counter li:nth-child(3) .block::before{display:none;}
+    }
+    @media only screen and (max-width :800px){
+    .inner{padding-left:15px;padding-right:15px;}
+    h3{font-size:30px!important;}
+    }
+    @media only screen and (max-width :767px){
+    .banner-section{background-image:none;background:#064473;min-height:initial;padding:60px 0;}
+    .banner-section .context h3{font-size:30px;}
+    .banner-section .context h1{font-size:70px;}
+    .banner-section .counter ul li h3{font-size:30px;}
+    }
+    @media only screen and (max-width :575px){
+			.wp-custom-logo .title-area {
+				padding-top:unset;
+			}
+    .banner-section .counter ul li{width:100%;padding:0;}
+    .banner-section .counter ul li:nth-child(2){width:100%;}
+    .banner-section .counter ul li:nth-child(3){width:100%;}
+    .banner-section .counter .block:before{background:rgba(255,255,255,.5);height:1px;}
+    .banner-section .counter li:nth-child(3) .block::before{display:block;}
+    .banner-section .counter ul li:last-child{margin-bottom:0;}
+    }
+    @media only screen and (max-width :480px){
+    .primary-btn{font-size:16px!important;padding:20px 10px;}
+    .banner-section .context h3{font-size:24px;}
+    .banner-section .context h1{font-size:40px;}
+    .banner-section .counter ul li h3{font-size:24px;}
+    .banner-section .counter ul li p{font-family:'proxima_nova_rgregular';}
+    }
+    }
+    /*! CSS Used fontfaces */
+    @font-face{font-family:'proxima_novabold';src:url(https://borderbuddy.com/wp-content/themes/borderbuddy/fonts/proxima/proximanova-bold_0-webfont.woff2) format('woff2'), url(https://borderbuddy.com/wp-content/themes/borderbuddy/fonts/proxima/proximanova-bold_0-webfont.woff) format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+    @font-face{font-family:'proxima_nova_rgregular';src:url(https://borderbuddy.com/wp-content/themes/borderbuddy/fonts/proxima/proximanova-regular_0-webfont.woff2) format('woff2'), url(https://borderbuddy.com/wp-content/themes/borderbuddy/fonts/proxima/proximanova-regular_0-webfont.woff) format('woff');font-weight:normal;font-style:normal;font-display:swap;}
+    @font-face{font-family:'proxima_novablack';src:url(https://borderbuddy.com/wp-content/themes/borderbuddy/fonts/proxima/proximanova-black_0-webfont.woff2) format('woff2'), url(https://borderbuddy.com/wp-content/themes/borderbuddy/fonts/proxima/proximanova-black_0-webfont.woff) format('woff');font-weight:normal;font-style:normal;font-display:swap;}		</style>
+		<style>
+</style>
+<script>
+    if (!document.querySelector("meta[name='viewport")) {
+        var vpMeta = document.createElement('meta');
+        vpMeta.name = "viewport";
+        vpMeta.content = "width=device-width, initial-scale=1.0";
+        document.getElementsByTagName('head')[0].appendChild(vpMeta);
+    }
+</script><meta data-intl-tel-input-cdn-path="https://borderbuddy.com/wp-content/plugins/nicepage/assets/intlTelInput/" /><script>
+            var _npProductsJsonUrl = 'https://borderbuddy.com/wp-admin/admin-ajax.php?action=np_route_products_json&np_from=theme';
+        </script><script>
+            var _npThankYouUrl = 'https://borderbuddy.com/?thank-you';
+        </script><script id="wpacu-preload-async-css-fallback">
+/*! LoadCSS. [c]2020 Filament Group, Inc. MIT License */
+/* This file is meant as a standalone workflow for
+- testing support for link[rel=preload]
+- enabling async CSS loading in browsers that do not support rel=preload
+- applying rel preload css once loaded, whether supported or not.
+*/
+(function(w){"use strict";var wpacuLoadCSS=function(href,before,media,attributes){var doc=w.document;var ss=doc.createElement('link');var ref;if(before){ref=before}else{var refs=(doc.body||doc.getElementsByTagName('head')[0]).childNodes;ref=refs[refs.length-1]}
+var sheets=doc.styleSheets;if(attributes){for(var attributeName in attributes){if(attributes.hasOwnProperty(attributeName)){ss.setAttribute(attributeName,attributes[attributeName])}}}
+ss.rel="stylesheet";ss.href=href;ss.media="only x";function ready(cb){if(doc.body){return cb()}
+setTimeout(function(){ready(cb)})}
+ready(function(){ref.parentNode.insertBefore(ss,(before?ref:ref.nextSibling))});var onwpaculoadcssdefined=function(cb){var resolvedHref=ss.href;var i=sheets.length;while(i--){if(sheets[i].href===resolvedHref){return cb()}}
+setTimeout(function(){onwpaculoadcssdefined(cb)})};function wpacuLoadCB(){if(ss.addEventListener){ss.removeEventListener("load",wpacuLoadCB)}
+ss.media=media||"all"}
+if(ss.addEventListener){ss.addEventListener("load",wpacuLoadCB)}
+ss.onwpaculoadcssdefined=onwpaculoadcssdefined;onwpaculoadcssdefined(wpacuLoadCB);return ss};if(typeof exports!=="undefined"){exports.wpacuLoadCSS=wpacuLoadCSS}else{w.wpacuLoadCSS=wpacuLoadCSS}}(typeof global!=="undefined"?global:this))
+</script></head>
+<body class="page-template-default page page-id-855 wp-custom-logo desktop content-sidebar genesis-breadcrumbs-hidden genesis-footer-widgets-hidden default-page"><div class="site-container"><div class="bh top-header-section widget-area"><div class = "wrap"><div class = "bd-widget-area"><section id="black-studio-tinymce-3" class="widget-odd widget-last widget-first widget-1 toll-free widget widget_black_studio_tinymce"><div class="widget-wrap"><div class="textwidget"><p><span class = "txt">Toll Free</span> <a href = "tel:8774098163"><img src="https://borderbuddy.com/wp-content/uploads/2020/03/phone-icon.png" alt="" width="27" height="27" class="alignnone size-full wp-image-1097" /><span class = "txt">(877) 409-8163</span></a> <a href="/cdn-cgi/l/email-protection#ee9d8b9c98878d8bae8c819c8a8b9c8c9b8a8a97c08d8183"><img src="https://borderbuddy.com/wp-content/uploads/2020/04/email-icon.png" alt="" width="25" height="24" class="alignnone size-full wp-image-1457" /><span class = "txt"><span class="__cf_email__" data-cfemail="384b5d4a4e515b5d785a574a5c5d4a5a4d5c5c41165b5755">[email&#160;protected]</span></span></a><a href = "https://wa.me/16042276303?text=Hi%20BorderBuddy" target = "_blank"><img src="https://borderbuddy.com/wp-content/uploads/2020/10/whatsapp-icon.png" alt="" width="27" height="27" class="alignnone size-full wp-image-1743" /><span class = "txt">Whatsapp An Expert</span></a></p>
+</div></div></section>
+</div></div></div><ul class="genesis-skip-link"><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to main content</a></li><li><a href="#genesis-sidebar-primary" class="screen-reader-shortcut"> Skip to primary sidebar</a></li></ul><header class="site-header"><div class="wrap"><div class="title-area"><a href="https://borderbuddy.com/" class="custom-logo-link" rel="home"><img width="1" height="1" src="https://borderbuddy.com/wp-content/uploads/2020/04/logo.svg" class="custom-logo" alt="BorderBuddy" decoding="async" /></a><p class="site-title"><a href="https://borderbuddy.com/">BorderBuddy</a></p><p class="site-description">Orders Without Borders</p></div><div class="widget-area header-widget-area"><section id="nav_menu-2" class="widget-odd widget-first widget-1 primary-menu widget widget_nav_menu"><div class="widget-wrap"><nav class="nav-header"><ul id="menu-primary-menu" class="menu genesis-nav-menu js-superfish"><li id="menu-item-1354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1354"><a href="https://borderbuddy.com/about/"><span >About</span></a></li>
+<li id="menu-item-1956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1956"><a href="https://borderbuddy.com/pars/"><span >PARS Tracker</span></a></li>
+<li id="menu-item-1951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1951"><a target="_blank" rel="noopener" href="http://app.zipments.io/paps?broker=borderBuddy"><span >PAPS Check</span></a></li>
+<li id="menu-item-1355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1355"><a href="https://borderbuddy.com/import-export/"><span >Import/Export</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625"><a href="https://borderbuddy.com/importing-goods-into-canada-for-resale/"><span >Importing into Canada</span></a></li>
+	<li id="menu-item-1626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626"><a href="https://borderbuddy.com/exporting-goods-from-canada/"><span >Exporting from Canada</span></a></li>
+	<li id="menu-item-1584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1584"><a href="https://borderbuddy.com/customs-broker-canada/"><span >Customs Brokerage</span></a></li>
+	<li id="menu-item-1585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1585"><a href="https://borderbuddy.com/customs-clearance/"><span >Customs Clearance</span></a></li>
+	<li id="menu-item-1579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1579"><a href="https://borderbuddy.com/importing-cars-from-us-to-canada/"><span >Import a Car</span></a></li>
+	<li id="menu-item-1583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1583"><a href="https://borderbuddy.com/e-commerce-solutions/"><span >Customs for E-Commerce</span></a></li>
+	<li id="menu-item-3570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3570"><a href="https://borderbuddy.com/carm/"><span >CARM</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1358"><a href="https://borderbuddy.com/faq/"><span >Faq</span></a></li>
+<li id="menu-item-1359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1359"><a href="https://borderbuddy.com/blog/"><span >Blog</span></a></li>
+<li id="menu-item-1360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1360"><a href="https://borderbuddy.com/contact/"><span >Contact</span></a></li>
+<li id="menu-item-1736" class="search-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-1736"><a href="#"><span >Search</span></a></li>
+<li id="menu-item-1096" class="quote glinkout menu-item menu-item-type-custom menu-item-object-custom menu-item-1096"><a href="https://app.borderbuddy.com/calculator2/public/import"><span >Get Quote</span></a></li>
+</ul></nav></div></section>
+<section id="black-studio-tinymce-6" class="widget-even widget-last widget-2 mobile-phone-email widget widget_black_studio_tinymce"><div class="widget-wrap"><div class="textwidget"><ul>
+<li><a href="tel:8774098163"><img src="https://borderbuddy.com/wp-content/uploads/2020/03/phone-icon.png" alt="" width="27" height="27" class="alignnone size-full wp-image-1097" /></li>
+<li><a href="/cdn-cgi/l/email-protection#45362037332c262005272a37212037273021213c6b262a28"><img src="https://borderbuddy.com/wp-content/uploads/2020/04/email-icon.png" alt="" width="25" height="24" class="alignnone size-full wp-image-1457" /></a></li>
+<li><a href = "https://wa.me/16042276303?text=Hi%20BorderBuddy" target = "_blank"><img src="https://borderbuddy.com/wp-content/uploads/2020/10/whatsapp-icon.png" alt="" width="27" height="27" class="alignnone size-full wp-image-1743" /></a></li>
+<li class = "search-icon"><i class="fa fa-search"></i></li>
+</ul>
+</div></div></section>
+</div><div id="mobile-menu-section" class="mobile-menu-section"><div class="toggle-wrap"><div id="toggle-nav"><span></span><span></span><span></span></div></div><div class="mobile-menu-wrap"><section id="nav_menu-3" class="widget-odd widget-last widget-first widget-1 widget widget_nav_menu"><div class="widget-wrap"><div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1354"><a href="https://borderbuddy.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1956"><a href="https://borderbuddy.com/pars/">PARS Tracker</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1951"><a target="_blank" rel="noopener" href="http://app.zipments.io/paps?broker=borderBuddy">PAPS Check</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1355"><a href="https://borderbuddy.com/import-export/">Import/Export</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625"><a href="https://borderbuddy.com/importing-goods-into-canada-for-resale/">Importing into Canada</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626"><a href="https://borderbuddy.com/exporting-goods-from-canada/">Exporting from Canada</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1584"><a href="https://borderbuddy.com/customs-broker-canada/">Customs Brokerage</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1585"><a href="https://borderbuddy.com/customs-clearance/">Customs Clearance</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1579"><a href="https://borderbuddy.com/importing-cars-from-us-to-canada/">Import a Car</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1583"><a href="https://borderbuddy.com/e-commerce-solutions/">Customs for E-Commerce</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3570"><a href="https://borderbuddy.com/carm/">CARM</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1358"><a href="https://borderbuddy.com/faq/">Faq</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1359"><a href="https://borderbuddy.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1360"><a href="https://borderbuddy.com/contact/">Contact</a></li>
+<li class="search-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-1736"><a href="#">Search</a></li>
+<li class="quote glinkout menu-item menu-item-type-custom menu-item-object-custom menu-item-1096"><a href="https://app.borderbuddy.com/calculator2/public/import">Get Quote</a></li>
+</ul></div></div></section>
+</div></div></div></header><div class="page-header-spacer"></div>
+	
+		<div class="popup-search">
+			<div class = "wrap">
+				<img  id = "close" src = "https://borderbuddy.com/wp-content/themes/borderbuddy/images/popsearch-close.svg" width="36">
+				<form class="search-form" method="get" action="https://borderbuddy.com/" role="search"><label class="search-form-label screen-reader-text" for="searchform-1">Search...</label><input class="search-form-input" type="search" name="s" id="searchform-1" placeholder="Search..."><input class="search-form-submit" type="submit" value="Search"><meta content="https://borderbuddy.com/?s={s}"></form>			</div>
+			
+		</div>
+	
+
+<div class="section-content-wrap section"> <div class="inner"><p id="breadcrumbs"><span><span><a href="https://borderbuddy.com/">Home</a></span> » <span class="breadcrumb_last" aria-current="page">Regular Importers</span></span></p></div></div>
+<div class="section-content-wrap section page-banner-section">
+	<div class="inner">
+		<div class="page-title text-center">
+			<h1>Regular Importers</h1>
+		</div>
+	</div>
+</div>
+
+
+<div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><article class="post-855 page type-page status-publish entry" aria-label="Regular Importers"><header class="entry-header"><h1 class="entry-title">Regular Importers</h1>
+</header><div class="entry-content"><p><span style="font-weight: 400;">Importing products over the border can be a hassle, especially when you do it more than once. If you are a repeat importer or exporter we want to make it easy for you to ship across the border. </span></p>
+<p><span style="font-weight: 400;">Get on our regular importer list and we can help you keep your imports or exports moving smoothly across the border every time.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">Are you an Amazon seller? We have a new system that helps you classify your products and ship them with no hassle. </span></p>
+<p>&nbsp;</p>
+
+                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_11' ><div id='gf_11' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+							<p class='gform_required_legend'>&quot;<span class="gfield_required gfield_required_asterisk">*</span>&quot; indicates required fields</p>
+                        </div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_11' id='gform_11'  action='/regular-importers/?noamp=mobile#gf_11' data-formid='11' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_11' class='gform_fields top_label form_sublabel_below description_below'><fieldset id="field_11_1" class="gfield gfield--type-name gfield_contains_required field_sublabel_hidden_label gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_11_1" ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend><div class='ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name has_last_name no_suffix gf_name_has_2 ginput_container_name gform-grid-row' id='input_11_1'>
+                            
+                            <span id='input_11_1_3_container' class='name_first gform-grid-col gform-grid-col--size-auto' >
+                                                    <input type='text' name='input_1.3' id='input_11_1_3' value=''   aria-required='true'   placeholder='First'  />
+                                                    <label for='input_11_1_3' class='gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text'>First</label>
+                                                </span>
+                            
+                            <span id='input_11_1_6_container' class='name_last gform-grid-col gform-grid-col--size-auto' >
+                                                    <input type='text' name='input_1.6' id='input_11_1_6' value=''   aria-required='true'   placeholder='Last'  />
+                                                    <label for='input_11_1_6' class='gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text'>Last</label>
+                                                </span>
+                            
+                        </div></fieldset><div id="field_11_3" class="gfield gfield--type-email gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_11_3" ><label class='gfield_label gform-field-label' for='input_11_3'>Email<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_3' id='input_11_3' type='email' value='' class='large'    aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_11_4" class="gfield gfield--type-phone gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_11_4" ><label class='gfield_label gform-field-label' for='input_11_4'>Phone<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_phone'><input name='input_4' id='input_11_4' type='tel' value='' class='large'   aria-required="true" aria-invalid="false"   /></div></div><div id="field_11_5" class="gfield gfield--type-text gfield--width-full field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_11_5" ><label class='gfield_label gform-field-label' for='input_11_5'>Company</label><div class='ginput_container ginput_container_text'><input name='input_5' id='input_11_5' type='text' value='' class='large'      aria-invalid="false"   /> </div></div><fieldset id="field_11_6" class="gfield gfield--type-address gfield--width-full field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_11_6" ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Address</legend>    
+                    <div class='ginput_complex ginput_container has_street has_city has_state has_zip has_country ginput_container_address gform-grid-row' id='input_11_6' >
+                         <span class='ginput_full address_line_1 ginput_address_line_1 gform-grid-col' id='input_11_6_1_container' >
+                                        <input type='text' name='input_6.1' id='input_11_6_1' value=''    aria-required='false'    />
+                                        <label for='input_11_6_1' id='input_11_6_1_label' class='gform-field-label gform-field-label--type-sub '>Street Address</label>
+                                    </span><span class='ginput_left address_city ginput_address_city gform-grid-col' id='input_11_6_3_container' >
+                                    <input type='text' name='input_6.3' id='input_11_6_3' value=''    aria-required='false'    />
+                                    <label for='input_11_6_3' id='input_11_6_3_label' class='gform-field-label gform-field-label--type-sub '>City</label>
+                                 </span><span class='ginput_right address_state ginput_address_state gform-grid-col' id='input_11_6_4_container' >
+                                        <input type='text' name='input_6.4' id='input_11_6_4' value=''      aria-required='false'    />
+                                        <label for='input_11_6_4' id='input_11_6_4_label' class='gform-field-label gform-field-label--type-sub '>State / Province / Region</label>
+                                      </span><span class='ginput_left address_zip ginput_address_zip gform-grid-col' id='input_11_6_5_container' >
+                                    <input type='text' name='input_6.5' id='input_11_6_5' value=''    aria-required='false'    />
+                                    <label for='input_11_6_5' id='input_11_6_5_label' class='gform-field-label gform-field-label--type-sub '>ZIP / Postal Code</label>
+                                </span><span class='ginput_right address_country ginput_address_country gform-grid-col' id='input_11_6_6_container' >
+                                        <select name='input_6.6' id='input_11_6_6'   aria-required='false'    ><option value='' selected='selected'></option><option value='Afghanistan' >Afghanistan</option><option value='Albania' >Albania</option><option value='Algeria' >Algeria</option><option value='American Samoa' >American Samoa</option><option value='Andorra' >Andorra</option><option value='Angola' >Angola</option><option value='Anguilla' >Anguilla</option><option value='Antarctica' >Antarctica</option><option value='Antigua and Barbuda' >Antigua and Barbuda</option><option value='Argentina' >Argentina</option><option value='Armenia' >Armenia</option><option value='Aruba' >Aruba</option><option value='Australia' >Australia</option><option value='Austria' >Austria</option><option value='Azerbaijan' >Azerbaijan</option><option value='Bahamas' >Bahamas</option><option value='Bahrain' >Bahrain</option><option value='Bangladesh' >Bangladesh</option><option value='Barbados' >Barbados</option><option value='Belarus' >Belarus</option><option value='Belgium' >Belgium</option><option value='Belize' >Belize</option><option value='Benin' >Benin</option><option value='Bermuda' >Bermuda</option><option value='Bhutan' >Bhutan</option><option value='Bolivia' >Bolivia</option><option value='Bonaire, Sint Eustatius and Saba' >Bonaire, Sint Eustatius and Saba</option><option value='Bosnia and Herzegovina' >Bosnia and Herzegovina</option><option value='Botswana' >Botswana</option><option value='Bouvet Island' >Bouvet Island</option><option value='Brazil' >Brazil</option><option value='British Indian Ocean Territory' >British Indian Ocean Territory</option><option value='Brunei Darussalam' >Brunei Darussalam</option><option value='Bulgaria' >Bulgaria</option><option value='Burkina Faso' >Burkina Faso</option><option value='Burundi' >Burundi</option><option value='Cabo Verde' >Cabo Verde</option><option value='Cambodia' >Cambodia</option><option value='Cameroon' >Cameroon</option><option value='Canada' >Canada</option><option value='Cayman Islands' >Cayman Islands</option><option value='Central African Republic' >Central African Republic</option><option value='Chad' >Chad</option><option value='Chile' >Chile</option><option value='China' >China</option><option value='Christmas Island' >Christmas Island</option><option value='Cocos Islands' >Cocos Islands</option><option value='Colombia' >Colombia</option><option value='Comoros' >Comoros</option><option value='Congo' >Congo</option><option value='Congo, Democratic Republic of the' >Congo, Democratic Republic of the</option><option value='Cook Islands' >Cook Islands</option><option value='Costa Rica' >Costa Rica</option><option value='Croatia' >Croatia</option><option value='Cuba' >Cuba</option><option value='Curaçao' >Curaçao</option><option value='Cyprus' >Cyprus</option><option value='Czechia' >Czechia</option><option value='Côte d&#039;Ivoire' >Côte d&#039;Ivoire</option><option value='Denmark' >Denmark</option><option value='Djibouti' >Djibouti</option><option value='Dominica' >Dominica</option><option value='Dominican Republic' >Dominican Republic</option><option value='Ecuador' >Ecuador</option><option value='Egypt' >Egypt</option><option value='El Salvador' >El Salvador</option><option value='Equatorial Guinea' >Equatorial Guinea</option><option value='Eritrea' >Eritrea</option><option value='Estonia' >Estonia</option><option value='Eswatini' >Eswatini</option><option value='Ethiopia' >Ethiopia</option><option value='Falkland Islands' >Falkland Islands</option><option value='Faroe Islands' >Faroe Islands</option><option value='Fiji' >Fiji</option><option value='Finland' >Finland</option><option value='France' >France</option><option value='French Guiana' >French Guiana</option><option value='French Polynesia' >French Polynesia</option><option value='French Southern Territories' >French Southern Territories</option><option value='Gabon' >Gabon</option><option value='Gambia' >Gambia</option><option value='Georgia' >Georgia</option><option value='Germany' >Germany</option><option value='Ghana' >Ghana</option><option value='Gibraltar' >Gibraltar</option><option value='Greece' >Greece</option><option value='Greenland' >Greenland</option><option value='Grenada' >Grenada</option><option value='Guadeloupe' >Guadeloupe</option><option value='Guam' >Guam</option><option value='Guatemala' >Guatemala</option><option value='Guernsey' >Guernsey</option><option value='Guinea' >Guinea</option><option value='Guinea-Bissau' >Guinea-Bissau</option><option value='Guyana' >Guyana</option><option value='Haiti' >Haiti</option><option value='Heard Island and McDonald Islands' >Heard Island and McDonald Islands</option><option value='Holy See' >Holy See</option><option value='Honduras' >Honduras</option><option value='Hong Kong' >Hong Kong</option><option value='Hungary' >Hungary</option><option value='Iceland' >Iceland</option><option value='India' >India</option><option value='Indonesia' >Indonesia</option><option value='Iran' >Iran</option><option value='Iraq' >Iraq</option><option value='Ireland' >Ireland</option><option value='Isle of Man' >Isle of Man</option><option value='Israel' >Israel</option><option value='Italy' >Italy</option><option value='Jamaica' >Jamaica</option><option value='Japan' >Japan</option><option value='Jersey' >Jersey</option><option value='Jordan' >Jordan</option><option value='Kazakhstan' >Kazakhstan</option><option value='Kenya' >Kenya</option><option value='Kiribati' >Kiribati</option><option value='Korea, Democratic People&#039;s Republic of' >Korea, Democratic People&#039;s Republic of</option><option value='Korea, Republic of' >Korea, Republic of</option><option value='Kuwait' >Kuwait</option><option value='Kyrgyzstan' >Kyrgyzstan</option><option value='Lao People&#039;s Democratic Republic' >Lao People&#039;s Democratic Republic</option><option value='Latvia' >Latvia</option><option value='Lebanon' >Lebanon</option><option value='Lesotho' >Lesotho</option><option value='Liberia' >Liberia</option><option value='Libya' >Libya</option><option value='Liechtenstein' >Liechtenstein</option><option value='Lithuania' >Lithuania</option><option value='Luxembourg' >Luxembourg</option><option value='Macao' >Macao</option><option value='Madagascar' >Madagascar</option><option value='Malawi' >Malawi</option><option value='Malaysia' >Malaysia</option><option value='Maldives' >Maldives</option><option value='Mali' >Mali</option><option value='Malta' >Malta</option><option value='Marshall Islands' >Marshall Islands</option><option value='Martinique' >Martinique</option><option value='Mauritania' >Mauritania</option><option value='Mauritius' >Mauritius</option><option value='Mayotte' >Mayotte</option><option value='Mexico' >Mexico</option><option value='Micronesia' >Micronesia</option><option value='Moldova' >Moldova</option><option value='Monaco' >Monaco</option><option value='Mongolia' >Mongolia</option><option value='Montenegro' >Montenegro</option><option value='Montserrat' >Montserrat</option><option value='Morocco' >Morocco</option><option value='Mozambique' >Mozambique</option><option value='Myanmar' >Myanmar</option><option value='Namibia' >Namibia</option><option value='Nauru' >Nauru</option><option value='Nepal' >Nepal</option><option value='Netherlands' >Netherlands</option><option value='New Caledonia' >New Caledonia</option><option value='New Zealand' >New Zealand</option><option value='Nicaragua' >Nicaragua</option><option value='Niger' >Niger</option><option value='Nigeria' >Nigeria</option><option value='Niue' >Niue</option><option value='Norfolk Island' >Norfolk Island</option><option value='North Macedonia' >North Macedonia</option><option value='Northern Mariana Islands' >Northern Mariana Islands</option><option value='Norway' >Norway</option><option value='Oman' >Oman</option><option value='Pakistan' >Pakistan</option><option value='Palau' >Palau</option><option value='Palestine, State of' >Palestine, State of</option><option value='Panama' >Panama</option><option value='Papua New Guinea' >Papua New Guinea</option><option value='Paraguay' >Paraguay</option><option value='Peru' >Peru</option><option value='Philippines' >Philippines</option><option value='Pitcairn' >Pitcairn</option><option value='Poland' >Poland</option><option value='Portugal' >Portugal</option><option value='Puerto Rico' >Puerto Rico</option><option value='Qatar' >Qatar</option><option value='Romania' >Romania</option><option value='Russian Federation' >Russian Federation</option><option value='Rwanda' >Rwanda</option><option value='Réunion' >Réunion</option><option value='Saint Barthélemy' >Saint Barthélemy</option><option value='Saint Helena, Ascension and Tristan da Cunha' >Saint Helena, Ascension and Tristan da Cunha</option><option value='Saint Kitts and Nevis' >Saint Kitts and Nevis</option><option value='Saint Lucia' >Saint Lucia</option><option value='Saint Martin' >Saint Martin</option><option value='Saint Pierre and Miquelon' >Saint Pierre and Miquelon</option><option value='Saint Vincent and the Grenadines' >Saint Vincent and the Grenadines</option><option value='Samoa' >Samoa</option><option value='San Marino' >San Marino</option><option value='Sao Tome and Principe' >Sao Tome and Principe</option><option value='Saudi Arabia' >Saudi Arabia</option><option value='Senegal' >Senegal</option><option value='Serbia' >Serbia</option><option value='Seychelles' >Seychelles</option><option value='Sierra Leone' >Sierra Leone</option><option value='Singapore' >Singapore</option><option value='Sint Maarten' >Sint Maarten</option><option value='Slovakia' >Slovakia</option><option value='Slovenia' >Slovenia</option><option value='Solomon Islands' >Solomon Islands</option><option value='Somalia' >Somalia</option><option value='South Africa' >South Africa</option><option value='South Georgia and the South Sandwich Islands' >South Georgia and the South Sandwich Islands</option><option value='South Sudan' >South Sudan</option><option value='Spain' >Spain</option><option value='Sri Lanka' >Sri Lanka</option><option value='Sudan' >Sudan</option><option value='Suriname' >Suriname</option><option value='Svalbard and Jan Mayen' >Svalbard and Jan Mayen</option><option value='Sweden' >Sweden</option><option value='Switzerland' >Switzerland</option><option value='Syria Arab Republic' >Syria Arab Republic</option><option value='Taiwan' >Taiwan</option><option value='Tajikistan' >Tajikistan</option><option value='Tanzania, the United Republic of' >Tanzania, the United Republic of</option><option value='Thailand' >Thailand</option><option value='Timor-Leste' >Timor-Leste</option><option value='Togo' >Togo</option><option value='Tokelau' >Tokelau</option><option value='Tonga' >Tonga</option><option value='Trinidad and Tobago' >Trinidad and Tobago</option><option value='Tunisia' >Tunisia</option><option value='Turkmenistan' >Turkmenistan</option><option value='Turks and Caicos Islands' >Turks and Caicos Islands</option><option value='Tuvalu' >Tuvalu</option><option value='Türkiye' >Türkiye</option><option value='US Minor Outlying Islands' >US Minor Outlying Islands</option><option value='Uganda' >Uganda</option><option value='Ukraine' >Ukraine</option><option value='United Arab Emirates' >United Arab Emirates</option><option value='United Kingdom' >United Kingdom</option><option value='United States' >United States</option><option value='Uruguay' >Uruguay</option><option value='Uzbekistan' >Uzbekistan</option><option value='Vanuatu' >Vanuatu</option><option value='Venezuela' >Venezuela</option><option value='Viet Nam' >Viet Nam</option><option value='Virgin Islands, British' >Virgin Islands, British</option><option value='Virgin Islands, U.S.' >Virgin Islands, U.S.</option><option value='Wallis and Futuna' >Wallis and Futuna</option><option value='Western Sahara' >Western Sahara</option><option value='Yemen' >Yemen</option><option value='Zambia' >Zambia</option><option value='Zimbabwe' >Zimbabwe</option><option value='Åland Islands' >Åland Islands</option></select>
+                                        <label for='input_11_6_6' id='input_11_6_6_label' class='gform-field-label gform-field-label--type-sub '>Country</label>
+                                    </span>
+                    <div class='gf_clear gf_clear_complex'></div>
+                </div></fieldset><div id="field_11_8" class="gfield gfield--type-select gfield_contains_required field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_11_8" ><label class='gfield_label gform-field-label' for='input_11_8'>What country are you importing to?<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_select'><select name='input_8' id='input_11_8' class='large gfield_select'    aria-required="true" aria-invalid="false" ><option value='Afghanistan' >Afghanistan</option><option value='Albania' >Albania</option><option value='Algeria' >Algeria</option><option value='American Samoa' >American Samoa</option><option value='Andorra' >Andorra</option><option value='Angola' >Angola</option><option value='Anguilla' >Anguilla</option><option value='Antarctica' >Antarctica</option><option value='Antigua and Barbuda' >Antigua and Barbuda</option><option value='Argentina' >Argentina</option><option value='Armenia' >Armenia</option><option value='Aruba' >Aruba</option><option value='Australia' >Australia</option><option value='Austria' >Austria</option><option value='Azerbaijan' >Azerbaijan</option><option value='Bahamas' >Bahamas</option><option value='Bahrain' >Bahrain</option><option value='Bangladesh' >Bangladesh</option><option value='Barbados' >Barbados</option><option value='Belarus' >Belarus</option><option value='Belgium' >Belgium</option><option value='Belize' >Belize</option><option value='Benin' >Benin</option><option value='Bermuda' >Bermuda</option><option value='Bhutan' >Bhutan</option><option value='Bolivia' >Bolivia</option><option value='Bonaire, Sint Eustatius and Saba' >Bonaire, Sint Eustatius and Saba</option><option value='Bosnia and Herzegovina' >Bosnia and Herzegovina</option><option value='Botswana' >Botswana</option><option value='Bouvet Island' >Bouvet Island</option><option value='Brazil' >Brazil</option><option value='British Indian Ocean Territory' >British Indian Ocean Territory</option><option value='Brunei Darussalam' >Brunei Darussalam</option><option value='Bulgaria' >Bulgaria</option><option value='Burkina Faso' >Burkina Faso</option><option value='Burundi' >Burundi</option><option value='Cabo Verde' >Cabo Verde</option><option value='Cambodia' >Cambodia</option><option value='Cameroon' >Cameroon</option><option value='Canada' >Canada</option><option value='Cayman Islands' >Cayman Islands</option><option value='Central African Republic' >Central African Republic</option><option value='Chad' >Chad</option><option value='Chile' >Chile</option><option value='China' >China</option><option value='Christmas Island' >Christmas Island</option><option value='Cocos Islands' >Cocos Islands</option><option value='Colombia' >Colombia</option><option value='Comoros' >Comoros</option><option value='Congo' >Congo</option><option value='Congo, Democratic Republic of the' >Congo, Democratic Republic of the</option><option value='Cook Islands' >Cook Islands</option><option value='Costa Rica' >Costa Rica</option><option value='Croatia' >Croatia</option><option value='Cuba' >Cuba</option><option value='Curaçao' >Curaçao</option><option value='Cyprus' >Cyprus</option><option value='Czechia' >Czechia</option><option value='Côte d&#039;Ivoire' >Côte d&#039;Ivoire</option><option value='Denmark' >Denmark</option><option value='Djibouti' >Djibouti</option><option value='Dominica' >Dominica</option><option value='Dominican Republic' >Dominican Republic</option><option value='Ecuador' >Ecuador</option><option value='Egypt' >Egypt</option><option value='El Salvador' >El Salvador</option><option value='Equatorial Guinea' >Equatorial Guinea</option><option value='Eritrea' >Eritrea</option><option value='Estonia' >Estonia</option><option value='Eswatini' >Eswatini</option><option value='Ethiopia' >Ethiopia</option><option value='Falkland Islands' >Falkland Islands</option><option value='Faroe Islands' >Faroe Islands</option><option value='Fiji' >Fiji</option><option value='Finland' >Finland</option><option value='France' >France</option><option value='French Guiana' >French Guiana</option><option value='French Polynesia' >French Polynesia</option><option value='French Southern Territories' >French Southern Territories</option><option value='Gabon' >Gabon</option><option value='Gambia' >Gambia</option><option value='Georgia' >Georgia</option><option value='Germany' >Germany</option><option value='Ghana' >Ghana</option><option value='Gibraltar' >Gibraltar</option><option value='Greece' >Greece</option><option value='Greenland' >Greenland</option><option value='Grenada' >Grenada</option><option value='Guadeloupe' >Guadeloupe</option><option value='Guam' >Guam</option><option value='Guatemala' >Guatemala</option><option value='Guernsey' >Guernsey</option><option value='Guinea' >Guinea</option><option value='Guinea-Bissau' >Guinea-Bissau</option><option value='Guyana' >Guyana</option><option value='Haiti' >Haiti</option><option value='Heard Island and McDonald Islands' >Heard Island and McDonald Islands</option><option value='Holy See' >Holy See</option><option value='Honduras' >Honduras</option><option value='Hong Kong' >Hong Kong</option><option value='Hungary' >Hungary</option><option value='Iceland' >Iceland</option><option value='India' >India</option><option value='Indonesia' >Indonesia</option><option value='Iran' >Iran</option><option value='Iraq' >Iraq</option><option value='Ireland' >Ireland</option><option value='Isle of Man' >Isle of Man</option><option value='Israel' >Israel</option><option value='Italy' >Italy</option><option value='Jamaica' >Jamaica</option><option value='Japan' >Japan</option><option value='Jersey' >Jersey</option><option value='Jordan' >Jordan</option><option value='Kazakhstan' >Kazakhstan</option><option value='Kenya' >Kenya</option><option value='Kiribati' >Kiribati</option><option value='Korea, Democratic People&#039;s Republic of' >Korea, Democratic People&#039;s Republic of</option><option value='Korea, Republic of' >Korea, Republic of</option><option value='Kuwait' >Kuwait</option><option value='Kyrgyzstan' >Kyrgyzstan</option><option value='Lao People&#039;s Democratic Republic' >Lao People&#039;s Democratic Republic</option><option value='Latvia' >Latvia</option><option value='Lebanon' >Lebanon</option><option value='Lesotho' >Lesotho</option><option value='Liberia' >Liberia</option><option value='Libya' >Libya</option><option value='Liechtenstein' >Liechtenstein</option><option value='Lithuania' >Lithuania</option><option value='Luxembourg' >Luxembourg</option><option value='Macao' >Macao</option><option value='Madagascar' >Madagascar</option><option value='Malawi' >Malawi</option><option value='Malaysia' >Malaysia</option><option value='Maldives' >Maldives</option><option value='Mali' >Mali</option><option value='Malta' >Malta</option><option value='Marshall Islands' >Marshall Islands</option><option value='Martinique' >Martinique</option><option value='Mauritania' >Mauritania</option><option value='Mauritius' >Mauritius</option><option value='Mayotte' >Mayotte</option><option value='Mexico' >Mexico</option><option value='Micronesia' >Micronesia</option><option value='Moldova' >Moldova</option><option value='Monaco' >Monaco</option><option value='Mongolia' >Mongolia</option><option value='Montenegro' >Montenegro</option><option value='Montserrat' >Montserrat</option><option value='Morocco' >Morocco</option><option value='Mozambique' >Mozambique</option><option value='Myanmar' >Myanmar</option><option value='Namibia' >Namibia</option><option value='Nauru' >Nauru</option><option value='Nepal' >Nepal</option><option value='Netherlands' >Netherlands</option><option value='New Caledonia' >New Caledonia</option><option value='New Zealand' >New Zealand</option><option value='Nicaragua' >Nicaragua</option><option value='Niger' >Niger</option><option value='Nigeria' >Nigeria</option><option value='Niue' >Niue</option><option value='Norfolk Island' >Norfolk Island</option><option value='North Macedonia' >North Macedonia</option><option value='Northern Mariana Islands' >Northern Mariana Islands</option><option value='Norway' >Norway</option><option value='Oman' >Oman</option><option value='Pakistan' >Pakistan</option><option value='Palau' >Palau</option><option value='Palestine, State of' >Palestine, State of</option><option value='Panama' >Panama</option><option value='Papua New Guinea' >Papua New Guinea</option><option value='Paraguay' >Paraguay</option><option value='Peru' >Peru</option><option value='Philippines' >Philippines</option><option value='Pitcairn' >Pitcairn</option><option value='Poland' >Poland</option><option value='Portugal' >Portugal</option><option value='Puerto Rico' >Puerto Rico</option><option value='Qatar' >Qatar</option><option value='Romania' >Romania</option><option value='Russian Federation' >Russian Federation</option><option value='Rwanda' >Rwanda</option><option value='Réunion' >Réunion</option><option value='Saint Barthélemy' >Saint Barthélemy</option><option value='Saint Helena, Ascension and Tristan da Cunha' >Saint Helena, Ascension and Tristan da Cunha</option><option value='Saint Kitts and Nevis' >Saint Kitts and Nevis</option><option value='Saint Lucia' >Saint Lucia</option><option value='Saint Martin' >Saint Martin</option><option value='Saint Pierre and Miquelon' >Saint Pierre and Miquelon</option><option value='Saint Vincent and the Grenadines' >Saint Vincent and the Grenadines</option><option value='Samoa' >Samoa</option><option value='San Marino' >San Marino</option><option value='Sao Tome and Principe' >Sao Tome and Principe</option><option value='Saudi Arabia' >Saudi Arabia</option><option value='Senegal' >Senegal</option><option value='Serbia' >Serbia</option><option value='Seychelles' >Seychelles</option><option value='Sierra Leone' >Sierra Leone</option><option value='Singapore' >Singapore</option><option value='Sint Maarten' >Sint Maarten</option><option value='Slovakia' >Slovakia</option><option value='Slovenia' >Slovenia</option><option value='Solomon Islands' >Solomon Islands</option><option value='Somalia' >Somalia</option><option value='South Africa' >South Africa</option><option value='South Georgia and the South Sandwich Islands' >South Georgia and the South Sandwich Islands</option><option value='South Sudan' >South Sudan</option><option value='Spain' >Spain</option><option value='Sri Lanka' >Sri Lanka</option><option value='Sudan' >Sudan</option><option value='Suriname' >Suriname</option><option value='Svalbard and Jan Mayen' >Svalbard and Jan Mayen</option><option value='Sweden' >Sweden</option><option value='Switzerland' >Switzerland</option><option value='Syria Arab Republic' >Syria Arab Republic</option><option value='Taiwan' >Taiwan</option><option value='Tajikistan' >Tajikistan</option><option value='Tanzania, the United Republic of' >Tanzania, the United Republic of</option><option value='Thailand' >Thailand</option><option value='Timor-Leste' >Timor-Leste</option><option value='Togo' >Togo</option><option value='Tokelau' >Tokelau</option><option value='Tonga' >Tonga</option><option value='Trinidad and Tobago' >Trinidad and Tobago</option><option value='Tunisia' >Tunisia</option><option value='Turkmenistan' >Turkmenistan</option><option value='Turks and Caicos Islands' >Turks and Caicos Islands</option><option value='Tuvalu' >Tuvalu</option><option value='Türkiye' >Türkiye</option><option value='US Minor Outlying Islands' >US Minor Outlying Islands</option><option value='Uganda' >Uganda</option><option value='Ukraine' >Ukraine</option><option value='United Arab Emirates' >United Arab Emirates</option><option value='United Kingdom' >United Kingdom</option><option value='United States' >United States</option><option value='Uruguay' >Uruguay</option><option value='Uzbekistan' >Uzbekistan</option><option value='Vanuatu' >Vanuatu</option><option value='Venezuela' >Venezuela</option><option value='Viet Nam' >Viet Nam</option><option value='Virgin Islands, British' >Virgin Islands, British</option><option value='Virgin Islands, U.S.' >Virgin Islands, U.S.</option><option value='Wallis and Futuna' >Wallis and Futuna</option><option value='Western Sahara' >Western Sahara</option><option value='Yemen' >Yemen</option><option value='Zambia' >Zambia</option><option value='Zimbabwe' >Zimbabwe</option><option value='Åland Islands' >Åland Islands</option></select></div></div><div id="field_11_9" class="gfield gfield--type-textarea gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_11_9" ><label class='gfield_label gform-field-label' for='input_11_9'>What type of product are you importing?<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_textarea'><textarea name='input_9' id='input_11_9' class='textarea large'     aria-required="true" aria-invalid="false"   rows='10' cols='50'></textarea></div></div><div id="field_11_10" class="gfield gfield--type-number gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_11_10" ><label class='gfield_label gform-field-label' for='input_11_10'>How many shipments per month do you expect to import?<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_number'><input name='input_10' id='input_11_10' type='number' step='any'   value='' class='large'     aria-required="true" aria-invalid="false"  /></div></div><div id="field_11_12" class="gfield gfield--type-text gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_11_12" ><label class='gfield_label gform-field-label' for='input_11_12'>What is the average value of the shipment?<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_text'><input name='input_12' id='input_11_12' type='text' value='' class='large'     aria-required="true" aria-invalid="false"   /> </div></div><div id="field_11_13" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below gfield_visibility_visible"  data-js-reload="field_11_13" ><label class='gfield_label gform-field-label' for='input_11_13'>Email</label><div class='ginput_container'><input name='input_13' id='input_11_13' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_11_13'>This field is for validation purposes and should be left unchanged.</div></div></div></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_11' class='gform_button button' value='Submit'  onclick='if(window["gf_submitting_11"]){return false;}  if( !jQuery("#gform_11")[0].checkValidity || jQuery("#gform_11")[0].checkValidity()){window["gf_submitting_11"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_11"]){return false;} if( !jQuery("#gform_11")[0].checkValidity || jQuery("#gform_11")[0].checkValidity()){window["gf_submitting_11"]=true;}  jQuery("#gform_11").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=11&amp;title=&amp;description=&amp;tabindex=0&amp;theme=gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='is_submit_11' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='11' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_11' value='WyJbXSIsIjFmZTU5ZDdmOGRlN2I5OGZhZjQ0NmMzYWVlNmMwMDM5Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_11' id='gform_target_page_number_11' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_11' id='gform_source_page_number_11' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        <p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="5"/><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_11' id='gform_ajax_frame_11' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 11, 'https://borderbuddy.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_11').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_11');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_11').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_11').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_11').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_11').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_11').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_11').val();gformInitSpinner( 11, 'https://borderbuddy.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [11, current_page]);window['gf_submitting_11'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_11').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_11').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [11]);window['gf_submitting_11'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_11').text());}, 50);}else{jQuery('#gform_11').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "11", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_11" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_11";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_11" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [11, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 11, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]&gt; */
+</script>
+
+</div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" id="genesis-sidebar-primary"><h2 class="genesis-sidebar-title screen-reader-text">Primary Sidebar</h2><section id="categories-2" class="widget-odd widget-first widget-1 sidebar-categories widget widget_categories"><div class="widget-wrap"><h3 class="widgettitle widget-title">Categories</h3>
+
+			<ul>
+					<li class="cat-item cat-item-57"><a href="https://borderbuddy.com/blog/category/adopting-and-importing-pets/">Adopting and Importing Pets</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="https://borderbuddy.com/blog/category/borderbuddy-data/">BorderBuddy Data</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="https://borderbuddy.com/blog/category/cross-border-shopping/">Cross-border Shopping</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://borderbuddy.com/blog/category/duty_and_tax/">Duty &amp; Tax</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="https://borderbuddy.com/blog/category/summer-series/">Summer Series</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://borderbuddy.com/blog/category/tips_and_tools/">Tips &amp; Tools</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://borderbuddy.com/blog/category/vehicle_import/">Vehicle Import</a>
+</li>
+			</ul>
+
+			</div></section>
+			<section id="wpt_widget-2" class="widget-even widget-2 featured-post widget widget_wpt"><div class="widget-wrap">			<div class="wpt_widget_content" id="wpt_widget-2_content" data-widget-number="2">
+				<ul class="wpt-tabs has-2-tabs">
+																		<li class="tab_title"><a href="#" id="recent-tab">Recent</a></li>
+																								<li class="tab_title"><a href="#" id="popular-tab">Popular</a></li>
+																																					</ul> <!--end .tabs-->
+				<div class="clear"></div>
+				<div class="inside">
+											<div id="popular-tab-content" class="tab-content">
+						</div> <!--end #popular-tab-content-->
+																<div id="recent-tab-content" class="tab-content">
+						</div> <!--end #recent-tab-content-->
+																				<div class="clear"></div>
+				</div> <!--end .inside -->
+				<div class="clear"></div>
+			</div><!--end #tabber -->
+						<script type="text/javascript">
+				jQuery(function($) {
+					$('#wpt_widget-2_content').data('args', {"allow_pagination":null,"post_num":"4","title_length":"15","comment_num":"5","show_thumb":"1","thumb_size":"large","show_date":null,"show_excerpt":"1","excerpt_length":"10","show_comment_num":null,"show_avatar":"1","show_love":null,"classes":"featured-post"});
+				});
+			</script>
+			</div></section>
+			<section id="black-studio-tinymce-5" class="widget-odd widget-last widget-3 sidebar-testimonial widget widget_black_studio_tinymce"><div class="widget-wrap"><div class="textwidget"><p><span class="client-testimonial text-center">Here’s What Our<br />
+Clients Say</h2>
+<p><div class = "blocks testimonial-blocks sidebar-testimonial-blocks"><div class = "block testimonial-block"><div class = "profile"><img width="110" height="110" src="https://borderbuddy.com/wp-content/uploads/2020/03/jay-img-110x110.jpg" class="attachment-testimonial-home-image size-testimonial-home-image" alt="" decoding="async" srcset="https://borderbuddy.com/wp-content/uploads/2020/03/jay-img-110x110.jpg 110w, https://borderbuddy.com/wp-content/uploads/2020/03/jay-img-150x150.jpg 150w, https://borderbuddy.com/wp-content/uploads/2020/03/jay-img-95x95.jpg 95w, https://borderbuddy.com/wp-content/uploads/2020/03/jay-img-218x218.jpg 218w, https://borderbuddy.com/wp-content/uploads/2020/03/jay-img-65x65.jpg 65w, https://borderbuddy.com/wp-content/uploads/2020/03/jay-img.jpg 229w" sizes="(max-width: 110px) 100vw, 110px" /></div><div class = "testimonial"><p class = "other"><span class = "name">Jay Mohl</span></p><img  src = "https://borderbuddy.com/wp-content/themes/borderbuddy/images/sidebar-rate-img.jpg"><p>Amanda Burr at BorderBuddy made our shipment seamless and her customer service was outstanding. Without question, we will work with Amanda and BorderBuddy again in the future. Thanks Amanda!</p>
+</div></div><div class = "block testimonial-block"><div class = "profile"><img width="110" height="110" src="https://borderbuddy.com/wp-content/uploads/2020/03/don-img-110x110.jpg" class="attachment-testimonial-home-image size-testimonial-home-image" alt="" decoding="async" srcset="https://borderbuddy.com/wp-content/uploads/2020/03/don-img-110x110.jpg 110w, https://borderbuddy.com/wp-content/uploads/2020/03/don-img-150x150.jpg 150w, https://borderbuddy.com/wp-content/uploads/2020/03/don-img-95x95.jpg 95w, https://borderbuddy.com/wp-content/uploads/2020/03/don-img-218x218.jpg 218w, https://borderbuddy.com/wp-content/uploads/2020/03/don-img-65x65.jpg 65w, https://borderbuddy.com/wp-content/uploads/2020/03/don-img.jpg 222w" sizes="(max-width: 110px) 100vw, 110px" /></div><div class = "testimonial"><p class = "other"><span class = "name">Don Mariutto</span></p><img  src = "https://borderbuddy.com/wp-content/themes/borderbuddy/images/sidebar-rate-img.jpg"><p>“I used BorderBuddy when were in a jam with a small tile shipment to Canada — just called them randomly after a Google search. Blair handled our case, and was in constant communication with updates, and got our shipment released within 24 hours, even though we were starting the process from scratch. Based on this experience, I can’t recommend Blair and the BorderBuddy team highly enough. Even though this was just a small shipment, they handled it like it was the most important on their agenda. We will definitely work with them again in the future – hopefully though, not on an emergency basis! THANK YOU!!”</p>
+</div></div><div class = "block testimonial-block"><div class = "profile"><img width="110" height="110" src="https://borderbuddy.com/wp-content/uploads/2020/03/nathan-img-110x110.jpg" class="attachment-testimonial-home-image size-testimonial-home-image" alt="" decoding="async" srcset="https://borderbuddy.com/wp-content/uploads/2020/03/nathan-img-110x110.jpg 110w, https://borderbuddy.com/wp-content/uploads/2020/03/nathan-img-150x150.jpg 150w, https://borderbuddy.com/wp-content/uploads/2020/03/nathan-img-95x95.jpg 95w, https://borderbuddy.com/wp-content/uploads/2020/03/nathan-img-218x218.jpg 218w, https://borderbuddy.com/wp-content/uploads/2020/03/nathan-img-65x65.jpg 65w, https://borderbuddy.com/wp-content/uploads/2020/03/nathan-img.jpg 232w" sizes="(max-width: 110px) 100vw, 110px" /></div><div class = "testimonial"><p class = "other"><span class = "name">Nathan Bird</span></p><img  src = "https://borderbuddy.com/wp-content/themes/borderbuddy/images/sidebar-rate-img.jpg"><p>company is always so very helpful in getting things across the border without any headaches. Tara was our agent this time around and she was prompt in answering any questions, super polite over the phone and coordinated everything for us. Highly recommend using their services.</p>
+</div></div></div><div class = "sidebar-google-review"><img  src = "https://borderbuddy.com/wp-content/themes/borderbuddy/images/sidebar-google-review-img.jpg"></div></p>
+</div></div></section>
+</aside></div></div>
+
+<!--<div class="section-content-wrap section section-5 free-download-section">
+    <div class="inner">
+        <div class="free-download">
+            <div class="featured">
+                <img  src = "https://borderbuddy.com/wp-content/uploads/2020/07/FOOTER-IMPORTINGEXPORTINGPDF-min.png">
+            </div>
+            <div class="context">
+                <h3>Importing and Exporting in a<br />
+COVID-19 World:</h3>
+<p>Smart Ways to Ensure Compliance, Prevent Contamination, and Save Money in the Process</p>
+            </div>
+            <div class="download-button">
+                <p><a class="primary-btn btn" href="https://borderbuddy.com/wp-content/uploads/2020/04/Importing-Exporting-in-a-COVID-19-World_eBook-1.pdf">DOWNLOAD FREE EBOOK</a></p>
+            </div>
+        </div>
+    </div>
+</div>-->
+
+
+
+<div class="section-content-wrap section footer-section">
+    <div class="inner">
+        <div class="row row-1">
+            <div class="footer-logo text-center">
+             <a href = "/"><img  src = "https://borderbuddy.com/wp-content/uploads/2020/04/footer-logo.png"></a>
+            </div>
+        </div>
+        <div class="row row-2">
+            <div class="footer-menu text-center">
+                <ul>
+<li><a href="/about/">About</a></li>
+<li><a href="/import-export/">Import/Export</a></li>
+<li><a href="/learning-center/">Learn</a></li>
+<li><a href="/testimonials/">Testimonials</a></li>
+<li><a href="/faq/">FAQ</a></li>
+<li><a href="/blog/">BLOG</a></li>
+<li><a href="/careers/">Careers</a></li>
+<li><a href="/contact/">Contact</a></li>
+</ul>
+         
+            </div>
+        </div>
+         <div class="row row-3">
+            <div class="social-media text-center">
+                <ul>
+<li class = "youtube"><a href="https://www.youtube.com/channel/UCuIw1kCz18I87PEqWlmnchg" target = "_blank"><i class="fa fa-youtube"></i></a></li>
+<li class = "facebook"><a href="https://www.facebook.com/borderbuddy" target = "_blank"><i class="fa fa-facebook-f"></i></a></li>
+<li class = "twitter"><a href="https://twitter.com/borderbuddy" target = "_blank"><i class="fa fa-twitter"></i></a></li>
+<li class = "pinterest"><a href="https://pinterest.com/borderbuddy1" target = "_blank"><i class="fa fa-pinterest-p"></i></a></li>
+<li class = "instagram"><a href="https://www.instagram.com/borderbuddy/" target = "_blank"><i class="fa fa-instagram"></i></a></li>
+<li class = "linkedin"><a href="https://www.linkedin.com/company/borderbuddy/" target = "_blank"><i class="fa fa-linkedin"></i></a></li>
+</ul>
+          
+            </div>
+        </div>
+        <div class="row row-4">
+            <div class="copyright">   
+                 <ul>
+<li>© 2023 BorderBuddy, All Rights Reserved <span class="block">|</span></li>
+<li><a href="/privacy/">Privacy </a><span class="block">|</span></li>
+<li><a href="/terms-of-use/">Legal Terms </a></li>
+<li class="designed"><a href="https://studio1design.com/" target="_blank" rel="noopener">Who Designed This Website? </a></li>
+</ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<a href="#" class="scroll-up highlight"><i class="fa fa-chevron-up"></i></a>
+
+<script>
+
+  jQuery(function( $ ){
+	  
+	  
+
+     $(window).scroll(function() {    
+      var scroll = $(window).scrollTop();
+
+      if (scroll >= 60) {
+        
+         $(".site-header").addClass("scrolling");
+     
+         
+      } else {
+        
+          $(".site-header").removeClass("scrolling");
+        
+      
+      }
+    });
+
+
+    $(".toggle-wrap").click(function(){
+
+        $(".mobile-menu-wrap").slideToggle();
+
+    });
+
+    $('.count-1').each(function () {
+        $(this).prop('Counter',10000).animate({
+            Counter: $(this).text()
+        }, {
+            duration: 2000,
+            easing: 'swing',
+            step: function (now) {
+                //$(this).text(Math.ceil(now));
+              now = Number(Math.ceil(now)).toLocaleString('en');
+            $(this).text(now);
+            }
+        });
+    });
+
+    $('.count-2').each(function () {
+        $(this).prop('Counter',100000).animate({
+            Counter: $(this).text()
+        }, {
+            duration: 2000,
+            easing: 'swing',
+            step: function (now) {
+                //$(this).text(Math.ceil(now));
+              now = Number(Math.ceil(now)).toLocaleString('en');
+            $(this).text(now);
+            }
+        });
+    });
+
+    
+    $('.review-section .blocks').slick({
+       
+        dots: false,
+        infinite: true,
+        speed: 500,
+        fade: true,
+        cssEase: 'linear',
+         adaptiveHeight: true,
+    });
+
+    $('.sidebar-testimonial-blocks').slick({
+       
+        dots: false,
+        infinite: true,
+        speed: 500,
+        fade: true,
+        cssEase: 'linear',
+        adaptiveHeight: true,
+    });
+
+
+     $('.testimonial-section .blocks').slick({
+       
+        dots: false,
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        adaptiveHeight: true,
+        responsive: [
+        {
+          breakpoint: 1023,
+          settings: {
+
+            slidesToShow: 2,
+            slidesToScroll: 1,
+
+          }
+        },
+        {
+          breakpoint: 767,
+          settings: {
+            slidesToShow: 1
+          }
+        }, 
+        {
+          breakpoint: 480,
+          settings: {
+            arrows: false,
+            slidesToShow: 1,
+            
+          }
+        }
+      ]
+    });
+
+
+    
+
+     $(window).scroll(function() {
+        if ($(this).scrollTop() > 150) {
+            $('.scroll-up').fadeIn();
+            
+        } else {
+            $('.scroll-up').fadeOut();
+        }
+    });
+
+    $('.scroll-up').click(function() {
+        $("html, body").animate({
+            scrollTop: 0
+        }, 600);
+        return false;
+    });
+
+
+    $(".faq .question").click(function(){
+            
+        $(this).closest('.faq .block').find('.answer').slideToggle(200);
+            
+        $(".faq .question").not(this).removeClass('active');
+            
+        $(this).toggleClass('active');
+
+        $(this).parent().siblings().children().next().slideUp(200);
+            
+        return false;
+        
+    });
+    
+    $('.search-icon > a').removeAttr("href");
+     $('.search-icon').on('click', function(){
+        $(".popup-search").show();
+     });
+	 
+	 
+
+      $('.popup-search #close').on('click', function(){
+        $(".popup-search").hide();
+        
+     });
+
+    
+  });
+</script>
+	
+</div>
+<!-- Start of Front Chat Widget script -->
+
+
+<!-- End of Front Chat Widget script -->
+
+<script>
+jQuery(document).ready(function()
+{
+
+var rawURL = window.location.href; 
+var url = new URL(rawURL);
+var param = url.searchParams.get('gclid');
+
+if (url.searchParams.get('gclid')) {
+
+jQuery('.glinkout,.glinkout a ').each(function(ind) {
+    var currentHref = jQuery(this).attr('href');
+    jQuery(this).attr('href', currentHref + "?gclid=" + param);
+});
+
+}
+
+
+});
+</script>
+
+<script>
+  if(jQuery('.gform_confirmation_message').is(":visible"))/* page load */
+  {
+    var formId=jQuery('.gform_confirmation_message').attr('id').replace('gform_confirmation_message_','');
+    dataLayer.push({'event':'gform.submit.success','formId':formId});
+  }
+  jQuery(document).on('submit','form[id*="gform_"]',function(){/* for Ajax Load */
+    var formId=jQuery(this).attr('id').replace('gform_','');
+    jQuery(this).find('.gfield').removeClass('gfield gfield_error ')
+    var setInt=setInterval(function(){
+      if(jQuery('.gform_confirmation_message_'+formId+'.gforms_confirmation_message,.gform_confirmation_message_'+formId+'.gform_confirmation_message').is(":visible"))
+      {
+        clearInterval(setInt);
+        dataLayer.push({'event':'gform.submit.success','formId':formId});
+      }
+      if(jQuery('#gform_fields_'+formId+' .gfield_error').is(":visible"))
+      {
+        clearInterval(setInt);
+        dataLayer.push({'event':'gform.submit.error','formId':formId});
+      }
+    },200);
+  });
+</script><style type="text/css">
+fieldset {
+border: none;
+padding: unset;
+}
+</style><style  type='text/css'  data-wpacu-inline-css-file='1'>
+/*
+Plugin Name: WP Tab Widget
+Plugin URI: http://mythemeshop.com/plugins/wp-tab-widget/
+Description: WP Tab Widget is the AJAXified plugin which loads content by demand, and thus it makes the plugin incredibly lightweight.
+Author: MyThemeShop
+Author URI: http://mythemeshop.com/
+*/
+
+.wpt_widget_content {
+    position: relative;
+    border: 1px solid #E4E4E4;
+}
+.wpt_widget_content img {
+    max-width: 100%;
+    height: auto;
+}
+.wpt_widget_content a {
+    color: #444;
+}
+.wpt_widget_content ul.wpt-tabs li {
+    list-style: none;
+    display: block;
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin: 0;
+    padding: 0 !important;
+}
+.wpt_widget_content ul.has-1-tabs li {
+    width: 100%;
+    float: none;
+    margin: 0 auto;
+}
+.wpt_widget_content ul.has-2-tabs li {
+    
+}
+.wpt_widget_content ul.has-3-tabs li {
+    width: 33.33%;
+}
+.wpt_widget_content ul.has-4-tabs li {
+    width: 50%;
+}
+.wpt_widget_content .has-4-tabs .tab_title.selected a {
+    border-bottom: 1px solid #E4E4E4;
+}
+.wpt_widget_content .has-4-tabs .tab_title:nth-child(3) a {
+    border-left: 0;
+}
+.wpt_widget_content .tab_title a {
+    display: block;
+    background: #f0f0f0;
+    border-left: 1px solid #E4E4E4;
+    border-bottom: 1px solid #E4E4E4;
+    padding: 2px 0 4px;
+    line-height: 2.4;
+    text-decoration: none;
+    position: relative;
+    font-weight: bold;
+}
+.wpt_widget_content .tab_title:first-child a {
+    margin-left: 0;
+    border-left: 0;
+}
+.wpt_widget_content .tab_title.selected a {
+    background: #fff;
+    border-bottom: 1px solid #fff;
+}
+.wpt_widget_content .inside {
+    background: #fff;
+    padding-top: 10px;
+}
+.wpt_widget_content .tab-content li {
+    list-style-type: none;
+    float: left;
+    width: 100%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 0 11px 0;
+    padding: 0px 15px 15px 15px;
+    border-bottom: 1px solid #E4E4E4;
+    text-align: left;
+    color: #444;
+    background: none;
+    position: relative;
+}
+.wpt_widget_content .tab-content li:last-child {
+    border: none;
+    margin-bottom: 0;
+}
+.wpt_widget_content .tab-content li:first-child {
+    padding-top: 5px;
+}
+
+.wpt_thumb_small {
+    float: left;
+    margin-right: 12px;
+    padding-top: 4px;
+    width: 65px;
+    height: 65px;
+    overflow: hidden;
+}
+.wpt_thumb_large {
+    float: none;
+    max-width: 100%;
+    display: inline-block;
+    margin-bottom: 4px;
+    position: relative;
+}
+.wpt_widget_content .entry-title {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.wpt_widget_content .wpt-postmeta, .wpt_comment_content, .wpt_excerpt {
+    color: #999;
+    font-size: 13px;
+}
+.wpt_widget_content .wp-post-image {
+    margin: 0 !important;
+}
+
+/* Comments */
+.wpt_avatar {
+    margin-right: 10px;
+    float: left;
+    margin-top: 4px;
+}
+.wpt_comment_content p, .wpt_excerpt p {
+    margin-bottom: 0;
+}
+.wpt_comment_meta {
+    font-weight: bold;
+}
+
+/* Tags tab */
+.wpt_widget_content #tags-tab-content {
+    padding-bottom: 10px;
+}
+.wpt_widget_content #tags-tab-content ul {
+    margin: 0;
+    overflow: hidden;
+    padding: 0 10px;
+    text-align: center;
+    font-size: 0;
+    line-height: 0;
+}
+.wpt_widget_content #tags-tab-content ul li {
+    width: auto;
+    color: #fff;
+    margin-bottom: 0;
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+    margin: 3px 3px 0 0;
+    float: none;
+    font-size: 13px;
+}
+.wpt_widget_content #tags-tab-content ul li a {
+    padding: 12px 10px;
+    background: #f0f0f0;
+    white-space: nowrap;
+    display: block;
+}
+
+/* Pagination */
+.wpt_widget_content .wpt-pagination {
+    margin: 0;
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 15px;
+    float: left;
+}
+.wpt_widget_content .wpt-pagination a {
+    margin: 0 15px;
+}
+.wpt-pagination a.next {
+    float: right;
+}
+
+/* Loading... */
+.wpt-loading {
+    min-height: 120px;
+}
+.wpt-loading:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(255,255,255,0.8);
+    z-index: 11;
+}
+.clear {
+    clear: both;
+}
+
+.wpt-loading:after {
+    content: "";
+    margin: 0 auto 3em auto;
+    font-size: 10px;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    z-index: 12;
+    text-indent: -9999em;
+    border-top: 0.4em solid rgba(0, 0, 0, 0.2);
+    border-right: 0.4em solid rgba(0, 0, 0, 0.2);
+    border-bottom: 0.4em solid rgba(0, 0, 0, 0.2);
+    border-left: 0.4em solid #000;
+    -webkit-animation: load8 0.5s infinite linear;
+    animation: load8 0.5s infinite linear;
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+}
+
+@-webkit-keyframes load8 { 
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@keyframes load8 { 
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+.wpt_show_love {
+    font-size: 12px;
+    font-style: italic;
+    padding: 5px;
+    margin: 0 10px;
+}
+</style>
+<script   type="text/javascript" defer='defer' src="https://borderbuddy.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js?ver=1.20.2" id="gtm4wp-form-move-tracker-js"></script>
+<script type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/careers\/|\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/borderbuddy.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+/* ]]> */
+</script>
+<script   data-wpacu-to-be-preloaded-basic='1' type="text/javascript" src="https://borderbuddy.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script   data-wpacu-to-be-preloaded-basic='1' type="text/javascript" src="https://borderbuddy.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10" id="superfish-js"></script>
+<script   data-wpacu-to-be-preloaded-basic='1' type="text/javascript" src="https://borderbuddy.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=3.5.0" id="superfish-args-js"></script>
+<script   type="text/javascript" src="https://borderbuddy.com/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.5.0" id="skip-links-js"></script>
+<script type="text/javascript" id="genesis-sample-responsive-menu-js-extra">
+/* <![CDATA[ */
+var genesis_responsive_menu = {"mainMenu":"Menu","menuIconClass":"dashicons-before dashicons-menu","subMenu":"Submenu","subMenuIconClass":"dashicons-before dashicons-arrow-down-alt2","menuClasses":{"combine":[".nav-primary"],"others":[]}};
+/* ]]> */
+</script>
+<script   data-wpacu-to-be-preloaded-basic='1' type="text/javascript" src="https://borderbuddy.com/wp-content/themes/borderbuddy/js/responsive-menus.min.js?ver=2.6.0" id="genesis-sample-responsive-menu-js"></script>
+<script   data-wpacu-to-be-preloaded-basic='1' type="text/javascript" src="https://borderbuddy.com/wp-content/themes/borderbuddy/js/genesis-sample.js?ver=2.6.0" id="genesis-sample-js"></script>
+<script   data-wpacu-to-be-preloaded-basic='1' type="text/javascript" src="https://borderbuddy.com/wp-content/themes/borderbuddy/js/slick.js?ver=6.4.3" id="jquery-slick-js"></script>
+<script   type="text/javascript" src="https://borderbuddy.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script   type="text/javascript" src="https://borderbuddy.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script   type="text/javascript" src="https://borderbuddy.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script   type="text/javascript" src="https://borderbuddy.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca" id="wp-dom-ready-js"></script>
+<script   type="text/javascript" src="https://borderbuddy.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script   type="text/javascript" src="https://borderbuddy.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script   type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script   type="text/javascript" id="wp-a11y-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-01-31 12:10:53+0000","generator":"GlotPress\/4.0.0-alpha.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_CA"},"Notifications":["Notifications"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+/* ]]> */
+</script>
+<script   type="text/javascript" src="https://borderbuddy.com/wp-includes/js/dist/a11y.min.js?ver=7032343a947cfccf5608" id="wp-a11y-js"></script>
+<script   type="text/javascript" defer='defer' src="https://borderbuddy.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.8.7" id="gform_masked_input-js"></script>
+<script   type="text/javascript" defer='defer' src="https://borderbuddy.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.8.7" id="gform_placeholder-js"></script>
+<script   type="text/javascript" defer='defer' src="https://borderbuddy.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=54e7080aa7a02c83aa61fae430b9d869" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"086dcd43a91a2186643b9f40607ad84f"}}},"hmr_dev":"","public_path":"https:\/\/borderbuddy.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
+/* ]]> */
+</script>
+<script   type="text/javascript" defer='defer' src="https://borderbuddy.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=bab19fd84843dabc070e73326d787910" id="gform_gravityforms_theme-js"></script>
+<script   defer type="text/javascript" src="https://borderbuddy.com/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1711221993" id="akismet-frontend-js"></script>
+<script type="text/javascript" id="wpt_widget-js-extra">
+/* <![CDATA[ */
+var wpt = {"ajax_url":"https:\/\/borderbuddy.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script   type="text/javascript" src="https://borderbuddy.com/wp-content/plugins/wp-tab-widget/js/wp-tab-widget.js?ver=6.4.3" id="wpt_widget-js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 11) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }jQuery('#input_11_4').mask('(999) 999-9999').bind('keypress', function(e){if(e.which == 13){jQuery(this).blur();} } );} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "11", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_11" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_11";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_11" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [11, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 11, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } ); 
+/* ]]> */
+</script>
+
+
+
+</body>
+</html>
